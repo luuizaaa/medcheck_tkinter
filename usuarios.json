@@ -3,5 +3,20 @@
         "email": "luiza@gmail.com",
         "cpf": "123456789010",
         "senha": "apollo"
+    },
+    {
+        "email": "luiza@email.com",
+        "cpf": "1234567890101",
+        "senha": "apollo"
+    },
+    {
+        "email": "apollo@gmail.com",
+        "cpf": "191820061908",
+        "senha": "apollo"
+    },
+    {
+        "email": "will@gmail.com",
+        "cpf": "111111111",
+        "senha": "1234"
     }
 ]
